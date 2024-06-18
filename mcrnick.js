@@ -5,3 +5,4 @@ console.log('day 4');
 console.log('day 5');
 console.log('day 6');
 console.log('day 7');
+console.log('day 8');
